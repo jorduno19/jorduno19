@@ -3,9 +3,9 @@ layout: cv
 title: James Orduno's CV
 ---
 
-![Harold](./media/21.png){:.avatar}
+![James](./media/james.jpg){:.avatar}
 
-#James Orduno
+James Orduno
 Computer Science Student and Technology aficionado
 
 <div id="webaddress">
@@ -19,7 +19,7 @@ Computer Science Student and Technology aficionado
 
 ## Currently
 
-I'm a final-year computer science student at the University Computers, due to finish around September 2016. During my bachelor's degree I've taken up an interest in mobile technologies and artificial intelligence.
+FILL THIS OUT
 
 ## Education
 
@@ -33,12 +33,22 @@ __SoftStack Factory__ Meanstack Coding Bootcamp
 
 * HTML and CSS
 * Javascript
+* Angular2
+* Ionic
 
 ## Projects
 
 ### CV
 
 I created a this web page to show off my CV.  
+
+### Trackdom
+
+Angular 2 App for tracking things you've watched, read, played
+
+### SS Calculator
+
+Ionic 3 App to calculate Social Security Retirement Benefits
 
 ## Achievements
 
@@ -52,16 +62,16 @@ Achievement 2
 __Roasted Bean Coffe House__ 
  Worked for two summers on the Roasted Bean Coffe House as a barista.
 
-## Hobbies
+<!--## Hobbies-->
 
-* Hiking
-* Riding 
-* Cooking
+<!--* Hiking-->
+<!--* Riding -->
+<!--* Cooking-->
 
 ## Links
 
 * <i class="fa fa-envelope"></i> <a href="mailto:">jorduno19@gmail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/">my account</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />
+* <i class="fa fa-github"></i> <a href="https://github.com/jorduno19">jorduno19</a><br />
+<!--* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />-->
 <!--* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>-->
 <!--* <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>-->
